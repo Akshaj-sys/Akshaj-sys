@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Akshaj-sys
-- 👀 I’m interested in coding
+- 👋 Hi, I’m @Akshajp20
+- 👀 I’m interested in cybersecurity 
 - 🌱 I’m currently learning information science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by phone number 7760503901
+- 📫 How to reach me akshajp545@gmail.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 
