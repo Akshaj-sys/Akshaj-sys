@@ -1,19 +1,16 @@
 # Hello, I'm AKSHAJ PATHAK
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 I am an information science and engineering student with a strong interest in cybersecurity. I am particularly drawn to blue team operations and constantly exploring the tools, techniques and best practices in SOC environments. With a curious mindset and growing technical interest, I am actively preparing for a future in cybersecurity industry
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-As a information science and engineering student with a focused interest in cybersecurity, I’m currently building the knowledge and skills necessary to thrive in a Security Operations Center (SOC) environment. My goal is to become a Tier 2 SOC Analyst, where I can apply my problem-solving abilities to monitor threats, analyze incidents, and help safeguard the digital infrastructure.
+As an information science and engineering student with strong interest in cybersecurity, I’m currently building the knowledge and skills necessary to thrive in a Security Operations Center (SOC) environment. My goal is to become a Tier 2 SOC Analyst, where I can apply my problem-solving abilities to monitor threats, analyze incidents, and help safeguard the digital infrastructure.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skills                                         | Associated Project         |
+| Skills                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |                                               | |
 |                                               | |
