@@ -52,7 +52,6 @@ As an information science and engineering student with strong interest in cybers
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="" />
 <img src="" />
