@@ -8,14 +8,12 @@ I am an information science and engineering student with a strong interest in cy
 As an information science and engineering student with strong interest in cybersecurity, I’m currently building the knowledge and skills necessary to thrive in a Security Operations Center (SOC) environment. My goal is to become a Tier 2 SOC Analyst, where I can apply my problem-solving abilities to monitor threats, analyze incidents, and help safeguard the digital infrastructure.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 |project                          |Associated skills                                                            |
 |---------------------------------|-----------------------------------------------------------------------------|
 |Homelab Setup                    |Virtualisation, system hardening, Networking basics, Linux operating system  |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network and Security Assessment
 <div>
@@ -53,7 +51,7 @@ As an information science and engineering student with strong interest in cybers
 
 ## Certifications
 <div>
-<img src="" />
+<img src="https://img.shields.io/badge/Networking-black?style=for-the-badge&logo=Cybrary&logoSize=medium" />
 <img src="" />
 <img src="" />
 <img src="" />
