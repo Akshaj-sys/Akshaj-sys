@@ -10,13 +10,10 @@ As an information science and engineering student with strong interest in cybers
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skills                                        | Associated Project         |
-|-----------------------------------------------|----------------------------|
-|                                               | |
-|                                               | |
-|                                               | |
-|                                               | |
-|                                               | |
+| Skills                                                    | Associated Project         |
+|-----------------------------------------------------------|----------------------------|
+|Virtualisation, System hardening, Networking basics, linux |  Security homelab set up   |
+ command line basics
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
