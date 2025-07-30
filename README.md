@@ -11,8 +11,7 @@ As an information science and engineering student with strong interest in cybers
 
 |project                          |Associated skills                                                            |
 |---------------------------------|-----------------------------------------------------------------------------|
-|Homelab Setup                    |Virtualisation, system hardening, Networking basics, Linux operating system, 
-                                   packet analysis |
+|Homelab Setup                    |Virtualisation, system hardening, Networking basics, Linux operating system, <br>packet analysis |
 
 ## Tools
 
