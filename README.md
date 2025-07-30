@@ -10,10 +10,9 @@ As an information science and engineering student with strong interest in cybers
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skills                                                    | Associated Project         |
-|-----------------------------------------------------------|----------------------------|
-|Virtualisation, System hardening, Networking basics, linux   Security homelab set up   |
- command line basics|
+|project                          |Associated skills                                                            |
+|---------------------------------|-----------------------------------------------------------------------------|
+|Homelab Setup                    |Virtualisation, system hardening, Networking basics, Linux operating system  |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -27,8 +26,10 @@ As an information science and engineering student with strong interest in cybers
 
 ### Virtualization and Operating Systems
 <div>
-    <img src="" />
-    <img src="" />
+    <img src="https://img.shields.io/badge/VirtualBox-darkblue?style=for-the-badge&logoSize=medium" />
+    <img src="https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logoSize=medium" />
+    <img src="https://img.shields.io/badge/KaliLinux-blue?style=for-the-badge&logoSize=medium" />
+
 </div>
 
 ### AWS cloud
