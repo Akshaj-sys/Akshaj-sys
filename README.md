@@ -59,4 +59,4 @@ As an information science and engineering student with strong interest in cybers
 </div>
 
 ## Projects
-- 
+- Homelab setup
