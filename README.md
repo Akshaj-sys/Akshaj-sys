@@ -11,7 +11,7 @@ As an information science and engineering student with strong interest in cybers
 
 |project                          |Associated skills                                                            |
 |---------------------------------|-----------------------------------------------------------------------------|
-|Homelab Setup                    |Virtualisation, system hardening, Networking basics, Linux operating system, <br>packet analysis |
+|Homelab Setup                    |Virtualisation, system hardening, Computer Networks, Linux operating system, <br>packet analysis |
 
 ## Tools
 
@@ -52,9 +52,6 @@ As an information science and engineering student with strong interest in cybers
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/NetworkBasics-black?style=for-the-badge&logo=Cybrary&logoSize=medium" />
-<img src="" />
-<img src="" />
-<img src="" />
 <img src="" />
 </div>
 
