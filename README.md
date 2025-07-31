@@ -20,6 +20,8 @@ As an information science and engineering student with strong interest in cybers
     <img src="https://img.shields.io/badge/NATNetwork-darkred?style=for-the-badge&logoSize=medium" />
     <img src="" />
     <img src="" />
+    <img src="" />
+    <img src="" />
 </div>
 
 ### Virtualization and Operating Systems
@@ -34,12 +36,10 @@ As an information science and engineering student with strong interest in cybers
 <div>
     <img src="" />
     <img src="" />
-    <img src="" />
 </div>
 
 ### Documentation and Project Management
 <div>
-    <img src="" />
     <img src="" />
     <img src="" />
 </div>
