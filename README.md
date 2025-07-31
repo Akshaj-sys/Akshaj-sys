@@ -51,7 +51,7 @@ As an information science and engineering student with strong interest in cybers
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/Networking-black?style=for-the-badge&logo=Cybrary&logoSize=medium" />
+<img src="https://img.shields.io/badge/Network-basics-black?style=for-the-badge&logo=Cybrary&logoSize=medium" />
 <img src="" />
 <img src="" />
 <img src="" />
