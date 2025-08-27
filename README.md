@@ -45,11 +45,6 @@ As an information science and engineering student with strong interest in cybers
     <img src="" />
 </div>
 
-### Sandbox and Testing environment 
-<div>
-    <img src="" />
-</div>
-
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/NetworkBasics-black?style=for-the-badge&logo=Cybrary&logoSize=medium" />
@@ -59,3 +54,5 @@ As an information science and engineering student with strong interest in cybers
 ## Projects
 - Homelab setup
 - Firewall setup and configuration
+
+## Experience
