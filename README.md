@@ -30,6 +30,7 @@ As an information science and engineering student with strong interest in cybers
     <img src="https://img.shields.io/badge/VirtualBox-darkblue?style=for-the-badge&logoSize=medium" />
     <img src="https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logoSize=medium" />
     <img src="https://img.shields.io/badge/KaliLinux-blue?style=for-the-badge&logoSize=medium" />
+    <img src="https://img.shields.io/badge/pfSense-OS?style=for-the-badge&color=teal" />
 
 </div>
 
