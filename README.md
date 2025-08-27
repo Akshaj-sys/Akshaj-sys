@@ -12,14 +12,14 @@ As an information science and engineering student with strong interest in cybers
 |project                          |Associated skills                                                            |
 |---------------------------------|-----------------------------------------------------------------------------|
 |Homelab Setup                    |Virtualisation, system hardening, Computer Networks, Linux command line, <br>packet analysis |
-|
+|Firewall setup and configuration |Network security, access control, troubleshooting, logging and monitoring, <br>pfsense|
 
 ## Tools
 
 ### Network and Security Assessment
 <div>
     <img src="https://img.shields.io/badge/NATNetwork-darkred?style=for-the-badge&logoSize=medium" />
-    <img src="" />
+    <img src="https://img.shields.io/badge/pfSense-Firewall?style=for-the-badge&color=teal" />
     <img src="" />
     <img src="" />
     <img src="" />
