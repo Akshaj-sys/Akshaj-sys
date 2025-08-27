@@ -58,3 +58,4 @@ As an information science and engineering student with strong interest in cybers
 
 ## Projects
 - Homelab setup
+- Firewall setup and configuration
