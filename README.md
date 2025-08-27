@@ -12,7 +12,7 @@ As an information science and engineering student with strong interest in cybers
 |project                          |Associated skills                                                            |
 |---------------------------------|-----------------------------------------------------------------------------|
 |Homelab Setup                    |Virtualisation, system hardening, Computer Networks, Linux command line, <br>packet analysis |
-|Firewall setup and configuration |Network security, access control, troubleshooting, logging and monitoring, <br>pfsense|
+|Firewall setup and configuration |Network security, access control, logging and monitoring, pfsense|
 
 ## Tools
 
