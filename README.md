@@ -18,7 +18,7 @@ As an information science and engineering student with strong interest in cybers
 
 ### Network and Security Assessment
 <div>
-    <img src="https://img.shields.io/badge/NATNetwork-darkred?style=for-the-badge&logoSize=medium" />
+    <img src="https://img.shields.io/badge/NAT-darkred?style=for-the-badge&logoSize=medium" />
     <img src="https://img.shields.io/badge/pfSense-Firewall?style=for-the-badge&color=teal" />
     <img src="" />
     <img src="" />
