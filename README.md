@@ -20,7 +20,7 @@ As an information science and engineering student with strong interest in cybers
 
 ### Network and Security Assessment
 <div>
-    <img src="https://img.shields.io/badge/Wireshark-oceanblue?style=for-the-badge&logoSize=medium" />
+    <img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logoSize=medium" />
     <img src="https://img.shields.io/badge/pfSense-Firewall?style=for-the-badge&color=darkblue" />
     <img src="https://img.shields.io/badge/Nmap-darkgreen?style=for-the-badge&logoSize=medium" />
     <img src="https://img.shields.io/badge/Nessus-teal?style=for-the-badge&logoSize=medium" />
@@ -32,7 +32,7 @@ As an information science and engineering student with strong interest in cybers
     <img src="https://img.shields.io/badge/VirtualBox-darkblue?style=for-the-badge&logoSize=medium" />
     <img src="https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logoSize=medium" />
     <img src="https://img.shields.io/badge/KaliLinux-blue?style=for-the-badge&logoSize=medium" />
-    <img src="https://img.shields.io/badge/pfSense-OS?style=for-the-badge&color=teal" />
+    <img src="https://img.shields.io/badge/pfSense-OS?style=for-the-badge&color=darkblue" />
 
 </div>
 
