@@ -24,7 +24,7 @@ As an information science and engineering student with strong interest in cybers
     <img src="https://img.shields.io/badge/pfSense-Firewall?style=for-the-badge&color=teal" />
     <img src="https://img.shields.io/badge/Nmap-darkgreen?style=for-the-badge&logoSize=medium" />
     <img src="https://img.shields.io/badge/Nessus-blue?style=for-the-badge&logoSize=medium" />
-    <img src="https://img.shields.io/badge/Suricata-IDS?style=for-the-badge&color=steelblue" />
+    <img src="https://img.shields.io/badge/Suricata-IDS?style=for-the-badge&color=purple" />
 </div>
 
 ### Virtualization and Operating Systems
@@ -36,16 +36,10 @@ As an information science and engineering student with strong interest in cybers
 
 </div>
 
-### AWS cloud
-<div>
-    <img src="" />
-    <img src="" />
-</div>
-
 ### Documentation and Project Management
 <div>
-    <img src="" />
-    <img src="" />
+    <img src="https://img.shields.io/badge/Jira?style=for-the-badge&color=deepblue" />
+    <img src="https://img.shields.io/badge/Googledocs?style=for-the-badge&color=skyblue" />
 </div>
 
 ## Certifications
