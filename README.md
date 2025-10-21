@@ -38,8 +38,8 @@ As an information science and engineering student with strong interest in cybers
 
 ### Documentation and Project Management
 <div>
-    <img src="https://img.shields.io/badge/Jira?style=for-the-badge&color=deepblue" />
-    <img src="https://img.shields.io/badge/Googledocs?style=for-the-badge&color=skyblue" />
+    <img src="https://img.shields.io/badge/Jira-darkblue?style=for-the-badge&logoSize=medium" />
+    <img src=""/>
 </div>
 
 ## Certifications
