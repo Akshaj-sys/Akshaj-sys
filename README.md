@@ -23,7 +23,7 @@ As an information science and engineering student with strong interest in cybers
     <img src="https://img.shields.io/badge/Wireshark-darkblue?style=for-the-badge&logoSize=medium" />
     <img src="https://img.shields.io/badge/pfSense-Firewall?style=for-the-badge&color=teal" />
     <img src="https://img.shields.io/badge/Nmap-darkgreen?style=for-the-badge&logoSize=medium" />
-    <img src="" />
+    <img src="https://img.shields.io/badge/Nessus-blue?style=for-the-badge&logoSize=medium" />
     <img src="" />
 </div>
 
