@@ -20,12 +20,13 @@ As an information science and engineering student with strong interest in cybers
 
 ### Network and Security Assessment
 <div>
-    <img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logoSize=medium" />
+    <img src="https://img.shields.io/badge/UFW-blue?style=for-the-badge&logoSize=medium" />
+    <img src="https://img.shields.io/badge/Wireshark-darkgreen?style=for-the-badge&logoSize=medium" />
     <img src="https://img.shields.io/badge/pfSense-Firewall?style=for-the-badge&color=darkblue" />
-    <img src="https://img.shields.io/badge/Nmap-darkgreen?style=for-the-badge&logoSize=medium" />
+    <img src="https://img.shields.io/badge/Nmap-orange?style=for-the-badge&logoSize=medium" />
     <img src="https://img.shields.io/badge/Nessus-teal?style=for-the-badge&logoSize=medium" />
     <img src="https://img.shields.io/badge/Suricata-IDS?style=for-the-badge&color=purple" />
-     <img src="https://img.shields.io/badge/Scapy-yellow?style=for-the-badge&logoSize=medium" />
+    <img src="https://img.shields.io/badge/Scapy-yellow?style=for-the-badge&logoSize=medium" />
 </div>
 
 ### Virtualization and Operating Systems
