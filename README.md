@@ -14,7 +14,7 @@ As an information science and engineering student with strong interest in cybers
 |Homelab Setup                             |Virtualisation, system hardening, Computer Networks, Linux command line, <br>packet analysis, Nmap, Wireshark |
 |Firewall setup and configuration          |Network security, access control, logging and monitoring, pfsense, Nmap|
 |Vulnerability management                  |System security testing, nessus vulnerability scanner, <br>vulnerability assessment|
-|Incident response network simulation      |Intrusion detection tool (Suricata), Log analysis, Incident detection, <br>Jira & google docs(documentation), Wireshark|
+|Incident response network simulation      |Intrusion detection tool (Suricata), Log analysis, Incident detection, <br>Jira & google docs(documentation), Wireshark, Scapy|
 
 ## Tools
 
@@ -34,7 +34,6 @@ As an information science and engineering student with strong interest in cybers
     <img src="https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logoSize=medium" />
     <img src="https://img.shields.io/badge/KaliLinux-blue?style=for-the-badge&logoSize=medium" />
     <img src="https://img.shields.io/badge/pfSense-OS?style=for-the-badge&color=darkblue" />
-
 </div>
 
 ### Documentation and Project Management
