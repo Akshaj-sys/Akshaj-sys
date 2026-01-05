@@ -47,7 +47,7 @@ As an information science and engineering student with strong interest in cybers
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/NetworkBasics-violet?style=for-the-badge&logo=Cybrary&logoSize=medium" />
-<img src="https://img.shields.io/badge/LetsDefend.io-deepblue?style=for-the-badge&logoSize=medium" />
+<img src="https://img.shields.io/badge/LetsDefend.io-blue?style=for-the-badge&logoSize=medium" />
 <img src="https://img.shields.io/badge/Deloitte-black?style=for-the-badge&logo=Forage&logoSize=medium" />
 <img src="https://img.shields.io/badge/Mastercard-Red?style=for-the-badge&logo=Forage&logoSize=medium" />
 </div>
