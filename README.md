@@ -48,7 +48,7 @@ As an information science and engineering student with strong interest in cybers
 <div>
 <img src="https://img.shields.io/badge/NetworkBasics-black?style=for-the-badge&logo=Cybrary&logoSize=medium" />
 <img src="https://img.shields.io/badge/LetsDefend.io-purple?style=for-the-badge&logoSize=medium" />
-
+<img src="https://img.shields.io/badge/Deloitte-black?style=for-the-badge&logo=Forage&logoSize=medium" />
 </div>
 
 ## Projects
