@@ -27,7 +27,7 @@ As an information science and engineering student with strong interest in cybers
     <img src="https://img.shields.io/badge/Nessus-teal?style=for-the-badge&logoSize=medium" />
     <img src="https://img.shields.io/badge/Suricata-IDS?style=for-the-badge&color=darkgreen" />
     <img src="https://img.shields.io/badge/Scapy-yellow?style=for-the-badge&logoSize=medium" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge" />
 </div>
 
 ### Virtualization and Operating Systems
