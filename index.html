@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Profile Backup</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body style="font-family: sans-serif; max-width: 800px; margin: auto; padding: 40px; line-height: 1.6;">
+    <div id="content">Loading profile...</div>
+    <script>
+        fetch('README.md')
+            .then(response => response.text())
+            .then(text => {
+                document.getElementById('content').innerHTML = marked.parse(text);
+            });
+    </script>
+</body>
+</html>
