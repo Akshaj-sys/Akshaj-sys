@@ -11,10 +11,10 @@ As an information science and engineering student with strong interest in cybers
 
 |project                                   |Associated skills                                                            |
 |------------------------------------------|-----------------------------------------------------------------------------|
-|Homelab Setup                             |OS virtualization, Computer Networks, Linux command line, <br>log analysis, Nmap, Wireshark |
-|Firewall setup and configuration          |Computer networks, Network security, access control, logging and monitoring, <br>pfsense Firewall /VM, Nmap|
-|Vulnerability management                  |System security testing, nessus vulnerability scanner, <br>vulnerability assessment|
-|Incident response network simulation      |Intrusion detection tool (Suricata), Log analysis, Incident detection, <br>Jira & google docs(documentation), Wireshark, Scapy|
+|Homelab Setup                             |Problem solving, Log analysis, OS virtualization, computer network, <br>system harderning |
+|Firewall setup and configuration          |Problem Solving, Log Analysis, Computer networks, Access Control, <br>Network Security, System hardening|
+|Vulnerability management                  |System security testing, problem solving, security analysis <br>vulnerability assessment|
+|Incident response network simulation      |Log analysis, Incident detection, problem solving, technical documentation |
 
 ## Tools
 
