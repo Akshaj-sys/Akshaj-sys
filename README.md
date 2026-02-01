@@ -43,7 +43,7 @@ As an information science and engineering student with strong interest in cybers
 <div>
     <img src="https://img.shields.io/badge/Jira-darkblue?style=for-the-badge&logoSize=medium" />
     <img src="https://img.shields.io/badge/Googledocs-blue?style=for-the-badge&logoSize=medium"/>
-    <img src="https://img.shields.io/badge/Excel-deepgreen?style=for-the-badge&logoSize=medium"/>
+    <img src="https://img.shields.io/badge/Excel-darkgreen?style=for-the-badge&logoSize=medium"/>
 </div>
 
 ## Certifications
