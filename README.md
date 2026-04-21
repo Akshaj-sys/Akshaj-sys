@@ -4,8 +4,8 @@
 I am an information science and engineering student with a strong interest in cybersecurity. I am particularly drawn to blue team operations and constantly exploring the tools, techniques and best practices in SOC environments. With a curious mindset and growing technical interest, I am actively preparing for a future in cybersecurity industry
 
 ## Objective
-
-As an information science and engineering student with strong interest in cybersecurity, I’m currently building the knowledge and skills necessary to thrive in a Security Operations Center (SOC) environment. My goal is to become a Tier 1 SOC Analyst, where I can apply my problem-solving abilities to monitor threats, analyze incidents, and help safeguard the digital infrastructure.
+I am an Information Science & Engineering student dedicated to mastering the art of threat detection and incident response. My work focuses on architecting secure virtual environments and simulating complex network attacks to refine defensive controls.
+My mission is to transition into a Tier 1 SOC Analyst role, leveraging hands-on experience in Traffic Analysis, SIEM Monitoring, and Automated Containment to protect organizational infrastructure from evolving digital threats.
 
 ## Tech stack
 | Category                | Tools & Skills                                                                           |
