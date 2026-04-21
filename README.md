@@ -5,58 +5,28 @@ I am an information science and engineering student with a strong interest in cy
 
 ## Objective
 
-As an information science and engineering student with strong interest in cybersecurity, I’m currently building the knowledge and skills necessary to thrive in a Security Operations Center (SOC) environment. My goal is to become a Tier 2 SOC Analyst, where I can apply my problem-solving abilities to monitor threats, analyze incidents, and help safeguard the digital infrastructure.
+As an information science and engineering student with strong interest in cybersecurity, I’m currently building the knowledge and skills necessary to thrive in a Security Operations Center (SOC) environment. My goal is to become a Tier 1 SOC Analyst, where I can apply my problem-solving abilities to monitor threats, analyze incidents, and help safeguard the digital infrastructure.
 
-## Skills
-
-|project                                   |Associated skills                                                            |
-|------------------------------------------|-----------------------------------------------------------------------------|
-|Homelab Setup                             |Problem solving, Log analysis, OS virtualization, computer network, <br>system harderning |
-|Firewall setup and configuration          |Problem Solving, Log Analysis, Computer networks, Access Control, <br>Network Security, System hardening|
-|Vulnerability management                  |System security testing, problem solving, security analysis <br>vulnerability assessment|
-|Incident response network simulation      |Log analysis, Incident detection, problem solving, technical documentation |
-
-## Tools
-
-### Network and Security Assessment
-<div>
-    <img src="https://img.shields.io/badge/Wireshark-darkgreen?style=for-the-badge&logoSize=medium" />
-    <img src="https://img.shields.io/badge/pfSense-Firewall?style=for-the-badge&color=darkblue" />
-    <img src="https://img.shields.io/badge/Nmap-orange?style=for-the-badge&logoSize=medium" />
-    <img src="https://img.shields.io/badge/Nessus-teal?style=for-the-badge&logoSize=medium" />
-    <img src="https://img.shields.io/badge/Suricata-IDS?style=for-the-badge&color=darkgreen" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge" />
-</div>
-
-### Virtualization and Operating Systems
-<div>
-    <img src="https://img.shields.io/badge/VirtualBox-darkblue?style=for-the-badge&logoSize=medium" />
-    <img src="https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logoSize=medium" />
-    <img src="https://img.shields.io/badge/KaliLinux-blue?style=for-the-badge&logoSize=medium" />
-    <img src="https://img.shields.io/badge/pfSense-OS?style=for-the-badge&color=darkblue" />
-    <img src="https://img.shields.io/badge/Metasploitable-purple?style=for-the-badge&logoSize=medium" />
-    <img src="https://img.shields.io/badge/LetsDefendSandbox-darkblue?style=for-the-badge&logoSize=medium" />
-</div>
-
-### Documentation and Project Management
-<div>
-    <img src="https://img.shields.io/badge/Jira-darkblue?style=for-the-badge&logoSize=medium" />
-    <img src="https://img.shields.io/badge/Googledocs-blue?style=for-the-badge&logoSize=medium"/>
-    <img src="https://img.shields.io/badge/Excel-darkgreen?style=for-the-badge&logoSize=medium"/>
-</div>
+## Tech stack
+| Category                | Tools & Skills                                                                           |
+|-------------------------|------------------------------------------------------------------------------------------|
+|  *Security Operations*  | Computer Networking, Network Security, Vulnerability Management, Incident Response, SIEM |
+|  *Network Security*     | pfSense Firewall, Suricata IDS, Wireshark, Nmap, Splunk, Nessus |
+|  *Infrastructure*       |Virtualization (VirtualBox), Linux(Ubuntu/Kali), pfSense OS, Metasploitable |
+|  *Soft skills*          | Problem solving, Tracking(Jira), Technical Documentation (Google docs/Excel) |
 
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/NetworkBasics-purple?style=for-the-badge&logo=Cybrary&logoSize=medium" />
 <img src="https://img.shields.io/badge/LetsDefend.io-darkblue?style=for-the-badge&logoSize=medium" />
-<img src="https://img.shields.io/badge/Deloitte-black?style=for-the-badge&logo=Forage&logoSize=medium" />
+<img src="https://img.shields.io/badge/Deloitte-green?style=for-the-badge&logo=Forage&logoSize=medium" />
 <img src="https://img.shields.io/badge/Mastercard-darkred?style=for-the-badge&logo=Forage&logoSize=medium" />
 </div>
 
-## Projects
-- Homelab setup
-- Firewall setup and configuration
-- Vulnerability management
-- Incident response network simulation
+## Featured projects
+- Homelab setup(https://github.com/Akshaj-sys/HomeLab-setup) : Architected a multi-OS virtual environment for offensive/defensive testing.
+- Firewall setup and configuration(https://github.com/Akshaj-sys/Firewall-setup-and-configuration): Set up and configured firewall using pfsense to provide a secure network gateway for virtual machines 
+- Vulnerability management(https://github.com/Akshaj-sys/Vulnerability-scan): Installed nessus on my Ubuntu VM and conducted an unauthenticated as well as authenticated nessus scan on metasploitable a delibaretly fautly VM
+- Incident response network simulation (https://github.com/Akshaj-sys/Incident-Response-Network-Simulation) : Scripted custom traffic with Scapy, detected via Suricata, and contained via pfSense.
 
 ## Experience
