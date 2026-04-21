@@ -19,7 +19,7 @@ As an information science and engineering student with strong interest in cybers
 <div>
 <img src="https://img.shields.io/badge/NetworkBasics-purple?style=for-the-badge&logo=Cybrary&logoSize=medium" />
 <img src="https://img.shields.io/badge/LetsDefend.io-darkblue?style=for-the-badge&logoSize=medium" />
-<img src="https://img.shields.io/badge/Deloitte-green?style=for-the-badge&logo=Forage&logoSize=medium" />
+<img src="https://img.shields.io/badge/Deloitte-Darkgreen?style=for-the-badge&logo=Forage&logoSize=medium" />
 <img src="https://img.shields.io/badge/Mastercard-darkred?style=for-the-badge&logo=Forage&logoSize=medium" />
 </div>
 
