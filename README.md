@@ -5,6 +5,7 @@ I am an information science and engineering student with a strong interest in cy
 
 ## Objective
 I am an Information Science & Engineering student dedicated to mastering the art of threat detection and incident response. My work focuses on architecting secure virtual environments and simulating complex network attacks to refine defensive controls.
+
 My mission is to transition into a Tier 1 SOC Analyst role, leveraging hands-on experience in Traffic Analysis, SIEM Monitoring, and Automated Containment to protect organizational infrastructure from evolving digital threats.
 
 ## Tech stack
