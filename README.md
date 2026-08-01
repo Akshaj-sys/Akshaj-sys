@@ -10,8 +10,8 @@ Information Science student specializing in Blue Team & Security Operations. Foc
 | Category                | Tools & Skills                                                                           |
 |-------------------------|------------------------------------------------------------------------------------------|
 |  *Security Operations*  | Computer Networking, Network Security, Vulnerability Management, Incident Response, SIEM |
-|  *Network Security*     | pfSense Firewall, Suricata IDS, Wireshark, Nmap, Splunk, Nessus |
-|  *Infrastructure*       |Virtualization (VirtualBox), Linux(Ubuntu/Kali), pfSense OS, Metasploitable |
+|  *Network Security*     | Firewall configuration, Suricata IDS, Wireshark, Nmap, Nessus |
+|  *Infrastructure*       |Virtualization (VirtualBox), Linux(Ubuntu/Kali), |
 |  *Soft skills*          | Problem solving, Tracking(Jira), Technical Documentation (Google docs/Excel) |
 
 ## Certifications
